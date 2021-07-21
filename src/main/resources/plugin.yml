@@ -1,0 +1,6 @@
+name: Manhunt
+version: ${project.version}
+main: manhunt.manhunt.Manhunt
+api-version: 1.16
+commands:
+  hunter:
