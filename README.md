@@ -1,3 +1,4 @@
-# Minecraft-Manhunt
-드림의 맨헌트
-https://www.youtube.com/watch?v=qqOxkuO3ip0&t=360s
+# Minecraft Manhunt
+## _마인크래프트 맨헌트_
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
