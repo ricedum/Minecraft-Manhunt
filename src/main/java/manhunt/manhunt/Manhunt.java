@@ -63,8 +63,8 @@ public class Manhunt extends JavaPlugin implements Listener, CommandExecutor
 
     private void sendInvalid(final CommandSender sender) {
         sender.sendMessage(ChatColor.RED + "명령어 사용법:");
-        sender.sendMessage(ChatColor.RED + "/hunter add <name>");
-        sender.sendMessage(ChatColor.RED + "/hunter remove <name>");
+        sender.sendMessage(ChatColor.RED + "/hunter add <이름>");
+        sender.sendMessage(ChatColor.RED + "/hunter remove <이름>");
     }
 
     @EventHandler
